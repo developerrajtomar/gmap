@@ -1,0 +1,32 @@
+{
+  "name": "easymap",
+  "version": "1.0.2",
+  "description": "A package which is built on top of google map, which is not from google but provide you a lot of features out of the box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerrajtomar/gmap.git"
+  },
+  "keywords": [
+    "Google",
+    "Map",
+    "Multiple",
+    "Marker",
+    "Current",
+    "Location",
+    "Road",
+    "Map"
+  ],
+  "author": "Raj Tomar <developer.rajtomar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerrajtomar/gmap/issues"
+  },
+  "homepage": "https://github.com/developerrajtomar/gmap#readme",
+  "optionalDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
